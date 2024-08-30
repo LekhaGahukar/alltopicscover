@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-23T22:53:37 IST" name="Default suite" finished-at="2024-08-23T22:53:47 IST" duration-ms="10435">
+    <groups>
+    </groups>
+    <test started-at="2024-08-23T22:53:37 IST" name="Default test" finished-at="2024-08-23T22:53:47 IST" duration-ms="10435">
+      <class name="projectStudy.ScreenShotEx">
+        <test-method signature="screen()[pri:0, instance:projectStudy.ScreenShotEx@4d14b6c2]" started-at="2024-08-23T22:53:37 IST" name="screen" finished-at="2024-08-23T22:53:47 IST" duration-ms="10326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screen -->
+      </class> <!-- projectStudy.ScreenShotEx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
